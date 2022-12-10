@@ -1,5 +1,7 @@
 # gitlab-clone-groups
 
+![cover](https://gitlab-clone.stockageenligne.com/Gitlab.png)
+
 a script that clones all documents in a gitlab group.
 a backup script that can be launched automatically.
 
